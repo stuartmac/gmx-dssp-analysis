@@ -1,0 +1,10 @@
+name: gmx-dssp-analysis
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
